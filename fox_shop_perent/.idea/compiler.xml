@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fox-shop-model" />
+        <module name="fox-shop-commons" />
+        <module name="fox-shop-pms" />
+        <module name="fox-shop-mybatis-blus-generator" />
+        <module name="fox-shop-admin" />
+        <module name="fox-shop-ums" />
+        <module name="fox-shop-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fox-shop-admin" target="1.8" />
+      <module name="fox-shop-commons" target="1.8" />
+      <module name="fox-shop-model" target="1.8" />
+      <module name="fox-shop-mybatis-blus-generator" target="1.8" />
+      <module name="fox-shop-pms" target="1.8" />
+      <module name="fox-shop-system" target="1.8" />
+      <module name="fox-shop-ums" target="1.8" />
+      <module name="fox_shop_perent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

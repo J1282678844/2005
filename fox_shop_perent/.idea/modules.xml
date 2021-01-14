@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fox-shop-admin/fox-shop-admin.iml" filepath="$PROJECT_DIR$/fox-shop-admin/fox-shop-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fox-shop-commons/fox-shop-commons.iml" filepath="$PROJECT_DIR$/fox-shop-commons/fox-shop-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fox-shop-model/fox-shop-model.iml" filepath="$PROJECT_DIR$/fox-shop-model/fox-shop-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fox-shop-mybatis-blus-generator/fox-shop-mybatis-blus-generator.iml" filepath="$PROJECT_DIR$/fox-shop-mybatis-blus-generator/fox-shop-mybatis-blus-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fox-shop-pms/fox-shop-pms.iml" filepath="$PROJECT_DIR$/fox-shop-pms/fox-shop-pms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fox-shop-system/fox-shop-system.iml" filepath="$PROJECT_DIR$/fox-shop-system/fox-shop-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fox-shop-ums/fox-shop-ums.iml" filepath="$PROJECT_DIR$/fox-shop-ums/fox-shop-ums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fox_shop_perent.iml" filepath="$PROJECT_DIR$/fox_shop_perent.iml" />
+    </modules>
+  </component>
+</project>
